@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ppFD4FUWHwU6RlrIlMSJVoUQq/MFbyi/k5mGNA2QleXayErpKrBLbh+AFxGYyjC5Gt2zTkDqmL8ezyzEq21l0g==",
+  "success": true,
+  "projectFilePath": "/Users/patrykkaczmarek/Projects/MigrationApp/MigrationApp.iOS/MigrationApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/patrykkaczmarek/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/patrykkaczmarek/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/patrykkaczmarek/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
