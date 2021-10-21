@@ -16,7 +16,6 @@
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
     <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
-    <AndroidUseLatestPlatformSdk>false</AndroidUseLatestPlatformSdk>
     <TargetFrameworkVersion>v11.0</TargetFrameworkVersion>
     <AndroidEnableSGenConcurrent>true</AndroidEnableSGenConcurrent>
     <AndroidUseAapt2>true</AndroidUseAapt2>
@@ -88,7 +87,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\MigrateAppBlankAndroid\MigrateAppBlankAndroid.csproj">
-      <Project>{05B79310-BB7E-4264-B152-E46B56F5088C}</Project>
+      <Project>{4A8902F9-A914-4F85-92C8-2F971F05E9E9}</Project>
       <Name>MigrateAppBlankAndroid</Name>
     </ProjectReference>
   </ItemGroup>
