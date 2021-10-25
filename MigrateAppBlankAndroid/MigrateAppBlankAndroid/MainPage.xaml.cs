@@ -14,14 +14,5 @@ namespace MigrateAppBlankAndroid
         {
             InitializeComponent();
         }
-
-        void Button_Clicked(System.Object sender, System.EventArgs e)
-        {
-            btn.Text = "Clicked";
-        }
-
-        void btn_SizeChanged(System.Object sender, System.EventArgs e)
-        {
-        }
     }
 }
